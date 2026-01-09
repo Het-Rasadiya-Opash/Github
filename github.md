@@ -37,3 +37,6 @@ git merge branchName
 git stash --> chnages not commited and switch to another branch
 
 git stash apply --> back to branch and apply old changes return
+
+
+git clone link --> repository clone of project
