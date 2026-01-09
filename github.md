@@ -53,7 +53,6 @@ git clone link --> repository clone of project
 -> github in provide a user access
 
 -> het clone the project 
-
 -> create branch
  -> add code
  -> git add . 
