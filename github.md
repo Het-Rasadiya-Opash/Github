@@ -43,6 +43,11 @@ git clone link --> repository clone of project
 
 
 
+
+
+
+
+
 //collab
 
 --> Main -> Computer
@@ -60,7 +65,6 @@ git clone link --> repository clone of project
  -> git push -u origin branchName
 
 
-
 -> computer 
 >git fetch
 >git branch 
@@ -68,3 +72,9 @@ git clone link --> repository clone of project
 >git switch main
 > git merge BranchnName
 >git push origin main
+
+//computer push code on github main branch
+// het fetch the code of main branch 
+>git switch main
+> git fetch
+> git pull
