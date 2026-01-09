@@ -40,3 +40,32 @@ git stash apply --> back to branch and apply old changes return
 
 
 git clone link --> repository clone of project
+
+
+
+//collab
+
+--> Main -> Computer
+-->Developer -> Het
+
+->computer create initial code and create repo amd innital code push on github 
+
+-> github in provide a user access
+
+-> het clone the project 
+
+-> create branch
+ -> add code
+ -> git add . 
+ -> git commit -m ""
+ -> git push -u origin branchName
+
+
+
+-> computer 
+>git fetch
+>git branch 
+>git switch branchName
+>git switch main
+> git merge BranchnName
+>git push origin main
